@@ -1,0 +1,28 @@
+/* tête de page */
+header {
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+
+/* Menu */
+section.Menu {
+
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 80px; 
+    border-radius: 50%;
+}
+section.menu de restaurant{
+    list-style: none;
+    padding: 20px;;
+}
+div.listes { 
+    list-style: none;
+
+}
